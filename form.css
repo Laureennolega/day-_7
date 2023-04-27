@@ -7,7 +7,7 @@ body{
     background-image:url('./header-image.png') ;
 }
 form{
-    background-color:rgba(219, 77, 77, 0.9) ;
+    background-color:rgba(219, 77, 77, 0.7S) ;
     width: 400px;
     margin: 100px auto;
     height: 100%;
